@@ -42,7 +42,7 @@ A Django-based backend application that provides language translation services u
     Create a `.env` file in the project root (or inside the `chat_translation` directory) to store your Azure OpenAI credentials. The application requires the following variables:
 
     ```env
-    AZURE_OAI_ENDPOINT=[https://your-resource-name.openai.azure.com/](https://your-resource-name.openai.azure.com/)
+    AZURE_OAI_ENDPOINT=https://your-resource-name.openai.azure.com/
     AZURE_OAI_KEY=your_api_key_here
     AZURE_OAI_DEPLOYMENT=gpt35
     ```
