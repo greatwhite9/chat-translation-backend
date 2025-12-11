@@ -18,7 +18,7 @@ A Django-based backend application that provides language translation services u
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/greatwhite9/chat-translation-backend
     cd translation
     ```
 
